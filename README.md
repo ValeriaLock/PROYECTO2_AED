@@ -142,15 +142,15 @@ Luego ejecutar:
 ## Fotos
 
 1. **Menú principal**  
-   - `fotos/menu.jpg`
+   ![Menú principal](fotos/menu.jpg)
 2. **Modo Debug – sin cuadrícula**  
-   - `fotos/debug_sin.jpg`
+   ![Modo Debug sin cuadrícula](fotos/debug_sin.jpg)
 3. **Modo Debug – con cuadrícula**  
-   - `fotos/debug_con.jpg`
+   ![Modo Debug con cuadrícula](fotos/debug_con.jpg)
 4. **Modo Arcade – sin cuadrícula**  
-   - `fotos/arcade_sin.jpg`
+   ![Modo Arcade sin cuadrícula](fotos/arcade_sin.jpg)
 5. **Modo Arcade – con cuadrícula**  
-   - `fotos/arcade_con.jpg`
+   ![Modo Arcade con cuadrícula](fotos/arcade_con.jpg)
 
 --- 
 
